@@ -1,1 +1,2 @@
 This web page is constructed exclusively using HTML and incorporates semantic elements such as header, main, and footer. The header includes the website's logo and a navigation bar. The main section comprises five segments, each composed of divs, images, headings, and text. The footer features a logo and image links to social media platforms, including Facebook, Twitter, and Instagram, made by Mohieddine Afkir
+<a href="Screenshot.com">Here<img src="Screenshot(91)png"></a>
