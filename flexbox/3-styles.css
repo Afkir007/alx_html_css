@@ -360,7 +360,7 @@
     /*** 4. CARD ***/
 
     /* Section SERVICES */
-    .section-latest-news.row {
+    .section-services .row {
       flex-wrap: wrap;    
     }
   /* Card (all styles)
