@@ -354,12 +354,12 @@
   }
   /* Section Latest news ============================= */
   /*** 4. CARD ***/
-  
+  .section-latest-news .row{
+    flex-direction: row-reverse;
+  }
   /* Card (all styles)
       ============================= */
-      .section-latest-news .row{
-        flex-direction: row-reverse;
-      }
+     
   .card-category {
     color: var(--color-primary);
   }
