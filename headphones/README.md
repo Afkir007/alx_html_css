@@ -1,0 +1,1 @@
+in this project we will make a nice looking website using css and html, which can be used in various devices, phones, laptops and tablets. It is gonna be based on scratch.
