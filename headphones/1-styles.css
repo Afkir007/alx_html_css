@@ -1,57 +1,72 @@
-:root {
-    width: 1400px;
-    height: 800px;
-    flex-shrink: 0;
-    border: 1px solid #979797;
+body {
+    background-image: url('images/headphones_hero_1.jpg');
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
   
-    background-image: url(headphones_backgrounf.avif);
-}
-
-.logo{
-    width: 161px;
-    height: 32px;
-    flex-shrink: 0;
-    align-items: start;
-}
-header {
-    background-color: var(--primary-color);
-    padding: 10px 20px; /* Increase padding for a bit more spacing */
+  .container {
+    padding: 20px;
+  }
+  header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-nav {
-    text-align: center;
-}
-
-nav ul {
+    padding: 10px 20px;
+  }
+  
+  .logo-link {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  nav ul {
     list-style: none;
+    display: flex;
     margin: 0;
     padding: 0;
-}
-
-nav li {
-    display: inline-block;
+  }
+  
+  nav ul li {
     margin-right: 20px;
-}
-
-nav a {
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0;
+  }
+  
+  nav ul li a {
     text-decoration: none;
     color: white;
+    font-size: 16px; 
     font-weight: bold;
-}
-
-/* ... Previous CSS styles ... */
-
-.hero {
+  }
+  
+  .container {
+    padding: 20px;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content {
     text-align: center;
-    padding: 100px 20px;
-}
-button{
-    width: 162px;
-height: 44px;
-flex-shrink: 0;
-border-radius: 22px;
-background: #FF6565;
-}
+    color: white;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px; 
+    color: white;
+    background-color: tomato;
+    border-radius: 20px;
+  }
+  @media screen and (max-width: 768px) {
+  }
+  
