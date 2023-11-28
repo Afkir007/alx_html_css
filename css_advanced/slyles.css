@@ -1,0 +1,272 @@
+
+body{
+    background-color: #C271FF;
+}
+header{
+    width: 1103.408px;
+height: 29.461px;
+flex-shrink: 0;
+}
+main{
+    width: 1440px;
+height: 1093px;
+flex-shrink: 0;
+}
+.logo{
+    width: 167.016px;
+height: 29.461px;
+flex-shrink: 0;
+}
+.links{
+    color: #FFF;
+font-family: Source Sans Pro;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.fst_heading{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+text{
+    color: #FFF;
+
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+button{
+    width: 162px;
+height: 44px;
+flex-shrink: 0;
+}
+.scd{
+    color: #C271FF;
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.p1{
+    color: #FFF;
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 16px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px; 
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+}
+.p2{
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 16px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px; 
+}
+.p3{
+    width: 150px;
+height: 149.85px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 16px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px;
+}
+.p4{
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 16px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px;
+}
+.testomenial{
+    width: 1440px;
+height: 392px;
+flex-shrink: 0;
+fill: #C271FF;
+
+}
+.quote{
+    color: #FFF;
+font-family: Source Sans Pro;
+font-size: 22px;
+font-style: italic;
+font-weight: 400;
+line-height: 33.6px;
+}
+.tutorials{
+    width: 1228px;
+height: 450px;
+flex-shrink: 0;
+background-color: #FFF;
+}
+.htu{
+    color: #071629;
+
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 32px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.vid{
+    width: 255px;
+height: 335px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 2px 4px 0px rgba(7, 22, 41, 0.18);
+}
+.author{
+    color: #071629;
+font-family: Source Sans Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.Rating{
+    width: 107px;
+height: 15px;
+flex-shrink: 0;
+}
+.membership{
+    width: 1440px;
+height: 502px;
+flex-shrink: 0;
+fill: #071629;
+}
+.h1m{
+    color: #C271FF;
+
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.h1f{
+    color: #FFF;
+font-family: Source Sans Pro;
+font-size: 32px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.icon{
+    width: 43.666px;
+height: 35.353px;
+flex-shrink: 0;
+}
+.h2i{
+    color: #FFF;
+
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 26px;
+}
+.tex{
+    color: #FFF;
+width: 212px;
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.FAQ{
+    width: 920px;
+height: 707px;
+flex-shrink: 0;
+}
+.FAQ h1{
+    color: #071629;
+
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 60px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.FAQ h2{
+    color: #071629;
+
+font-family: Source Sans Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.FAQ p{
+    width: 350px;
+    color: rgba(7, 22, 41, 0.50);
+
+font-family: Source Sans Pro;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+footer{
+    width: 1440px;
+height: 249px;
+flex-shrink: 0;
+background: #071629;
+}
+
+.socials{
+    width: 130px;
+height: 30px;
+flex-shrink: 0;
+}
+
+.logo_foot{
+    width: 36.388px;
+height: 29.461px;
+}
+footer p {
+    color: #FFF;
+
+font-family: Coiny;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
